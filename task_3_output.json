@@ -1,0 +1,2534 @@
+{
+    "Muhammad Kaufman": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Lexie Mckinney": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Gretchen Boyer": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Denise Allen": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Mila Baird": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Arianna Esparza": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Walker Wall": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Lucille Stout": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Giovanny Gonzales": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Marquis Forbes": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Jeffery Kelly": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Emily Spence": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Tiana Barron": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Dalia King": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Barbara Mclaughlin": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Frank Zuniga": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Nayeli Ortiz": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Rayan Curry": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Jasmine Graham": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Molly James": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Carl Riley": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Zion Werner": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Ari Jimenez": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Isla Watts": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Marcus Tanner": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Shane Landry": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Rubi Klein": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Marshall Hutchinson": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Leticia Johnson": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Chloe Wall": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Lexie Ho": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Jamison Lawson": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Zavier Maldonado": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Enrique Burke": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Emmett Sanchez": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        },
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Vicente Alvarez": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Adriana Figueroa": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Lola Townsend": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Alberto Everett": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Justice Quinn": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Cameron Moody": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        },
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Rolando Schmitt": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Colby Trevino": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expires soon"
+        }
+    ],
+    "Jolie Diaz": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Kyler Cardenas": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Liliana Sanders": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Sage Rosales": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expires soon"
+        }
+    ],
+    "Teagan French": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Frankie Dennis": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Gisselle Hooper": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        },
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Vance Stout": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Deacon Hanson": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Tiara Waters": [
+        {
+            "training": "Medical Records",
+            "status": "expires soon"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Jeramiah Rogers": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expires soon"
+        }
+    ],
+    "Fernanda Green": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Wayne Howell": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Sonia Bowman": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Makaila Hood": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Rolando Shelton": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Claire Montes": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Skyla Lang": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Gerald Parsons": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Adan Lowery": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Barrett Hicks": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expires soon"
+        }
+    ],
+    "Davion Pena": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Kyla Walker": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Aliya Chan": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Lukas Riggs": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Maggie Vincent": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expires soon"
+        }
+    ],
+    "Molly Singh": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Robert Daugherty": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Dawson Compton": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Aubree Gutierrez": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Reid Arias": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Norah Villegas": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Rory Leonard": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        },
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Kenyon Estes": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Angelo Jimenez": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Trinity Anthony": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Raquel Dunn": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Dania Parrish": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Kennedi Wolf": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Angela Collier": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Clay Estrada": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Kristina Gay": [
+        {
+            "training": "OHS Training",
+            "status": "expires soon"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Diana Munoz": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expires soon"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Eden Nash": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Brennen Howell": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Mara Roy": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Matilda Alvarado": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Daphne Hinton": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expires soon"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Haley Malone": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expires soon"
+        }
+    ],
+    "Geovanni Hess": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Oswaldo Gould": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Mackenzie Parrish": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Kingston Gay": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Jon Chapman": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Elizabeth Esparza": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Makenzie Pollard": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Tristian Myers": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Penelope Whitney": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Zachery Sherman": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Jazmine Haynes": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expires soon"
+        }
+    ],
+    "Alina Barry": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Niko Maldonado": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Frances Fields": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Jamiya Oconnell": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Lorenzo Delacruz": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Saige Mcdonald": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Mina Hatfield": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Giselle Oneal": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Lucy Duarte": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Brogan Dorsey": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Conner Warner": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Madeline Davila": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        },
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Mckenna Sanders": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Harper Peterson": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Sophie Rasmussen": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Immanuel Combs": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Tate Morgan": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Frida Mosley": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Jaylynn Harmon": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Nyasia Wilcox": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Chaya Reynolds": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expires soon"
+        }
+    ],
+    "Marie Boone": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Regan Holloway": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        },
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Angel Hill": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Mohammed Michael": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Milagros Montes": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Max Andrade": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Jessica Mcdaniel": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Harmony Lester": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Gillian Valdez": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expires soon"
+        }
+    ],
+    "Dario Browning": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Elvis Hester": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Gloria Mccarty": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expires soon"
+        }
+    ],
+    "Santos Haas": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Melissa Flores": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Dahlia Werner": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Emmalee Collins": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Cooper Roberson": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Yael Strickland": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Ann Prince": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Lucy Dunn": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Jake Gillespie": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Nadia Ali": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expires soon"
+        }
+    ],
+    "Julissa Bradford": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Roman Moyer": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Alejandro Cantrell": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Nadia Dominguez": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        },
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Paxton Marsh": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Adelaide Moore": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Nathanial Leonard": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Yael Cummings": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Liberty Miles": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Linda Romero": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Kiersten Leon": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Adan Salazar": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Sierra Watkins": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expires soon"
+        }
+    ],
+    "Garrett Mcneil": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Travis Bowers": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Cody Day": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Kyson Orozco": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Melody Mosley": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Emilia Gardner": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expires soon"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Gabrielle Robbins": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Jadiel Ball": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Kate Berry": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Misael Wall": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Brynlee Walker": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Bryan Cross": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Maximilian Humphrey": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Devon Bush": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Thaddeus Koch": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Dakota Pierce": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Juliette Mcconnell": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Jakobe Porter": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        },
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Caylee Hatfield": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Jaida Faulkner": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Damon Gaines": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Kaila Knapp": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Kathy Quinn": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Darian Bean": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Javion Ayers": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expires soon"
+        }
+    ],
+    "Eileen Holder": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Alma Parks": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Britney Hopkins": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Amira Oneal": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Kelly Munoz": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Maximo Bush": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expires soon"
+        }
+    ],
+    "Fernando Marks": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Bailey Barrera": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Aditya Alvarez": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Kamryn Bauer": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Belinda Fowler": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Toby Sullivan": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Matias Oconnell": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Laylah Hines": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Salvatore Mckay": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Lucas Fowler": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Amari Oconnor": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Urijah Travis": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expires soon"
+        },
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Lilliana Olsen": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Lilyana Blackwell": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Tamara Livingston": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expires soon"
+        }
+    ],
+    "Iris Aguilar": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Reginald Rogers": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Elijah Marks": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expires soon"
+        }
+    ],
+    "Juan Stafford": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expires soon"
+        },
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Jazmin Reynolds": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expires soon"
+        }
+    ],
+    "Darien Oconnor": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expires soon"
+        },
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Miah Burnett": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Louis Burnett": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        },
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Gage Spence": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Livia Hayes": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        },
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Jamie Gay": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Mara Holland": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        },
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Hadassah Hampton": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Micheal Cannon": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Leandro Krause": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Angelique Goodman": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Bridget Bray": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Talia Jacobson": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Gina Sexton": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "August Archer": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Kamila Mckenzie": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Dayana Costa": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Denise Koch": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Harley Cantrell": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Livia Burch": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Kaitlynn Finley": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Annika Snyder": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Nyla Rose": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Elian Richmond": [
+        {
+            "training": "Medical Records",
+            "status": "expires soon"
+        }
+    ],
+    "Lance Cowan": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Misael Irwin": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Callum Sawyer": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Gemma Osborn": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expires soon"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Valentina Nichols": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Cassidy Rowe": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Maritza Cervantes": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Rolando Franco": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Abraham Mendoza": [
+        {
+            "training": "Medical Records",
+            "status": "expires soon"
+        }
+    ],
+    "Aiyana Stone": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Adison Brewer": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Brodie Foster": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        },
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Ann Knight": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Holly Rosario": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Nikhil Henderson": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Arielle Dunn": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Julianna York": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Zackary Barajas": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Hillary Tyler": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        }
+    ],
+    "Eleanor Cooley": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Zavier Wiggins": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Norah Huber": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Antoine Rhodes": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expires soon"
+        }
+    ],
+    "Francis Sexton": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Audrina Eaton": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expires soon"
+        }
+    ],
+    "Jessie Odom": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Bennett Townsend": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Denisse Velazquez": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Jensen Brandt": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Bruno Navarro": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expires soon"
+        }
+    ],
+    "Martha Robinson": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        }
+    ],
+    "Larry Rowe": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Sara Gilmore": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Mercedes Page": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Janiyah Norris": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Brenna Kidd": [
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Rolando Mclean": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expires soon"
+        }
+    ],
+    "Rayan Valencia": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Damaris Hess": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Melanie Bennett": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Chloe Vargas": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Leland Nguyen": [
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Yandel Shields": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expires soon"
+        }
+    ],
+    "Gaige Conrad": [
+        {
+            "training": "OHS Training",
+            "status": "expires soon"
+        }
+    ],
+    "Trent Bernard": [
+        {
+            "training": "Occupational Exposure to Bloodborne Pathogens",
+            "status": "expired"
+        }
+    ],
+    "Alonzo Delacruz": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Martin Dean": [
+        {
+            "training": "Physical Science Responsible Conduct of Research Course 1.",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expires soon"
+        }
+    ],
+    "Braylon Trevino": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Ethen Mathews": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Adalynn Dunlap": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Kira Ramos": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Carson Blackburn": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Mario Wiggins": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Alannah Booth": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expires soon"
+        },
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        }
+    ],
+    "Marlon Baker": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        },
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Jonathon Bradford": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expires soon"
+        },
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Alexandra Schneider": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        },
+        {
+            "training": "Awareness Training for the Transport of Hazardous Material",
+            "status": "expired"
+        }
+    ],
+    "Rhys Gay": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Madisyn Wiggins": [
+        {
+            "training": "Medical Records",
+            "status": "expired"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Helena Weiss": [
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Destinee Odonnell": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Angelo Rivers": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Dayanara Reynolds": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Noe Boyle": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Mia Pacheco": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Charlee Acevedo": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Albert Rogers": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Reynaldo Kidd": [
+        {
+            "training": "DOT Hazard Material Awareness",
+            "status": "expired"
+        }
+    ],
+    "Jean Preston": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Samara Tran": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expires soon"
+        }
+    ],
+    "Jerimiah Guerra": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        },
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Damon Jimenez": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expired"
+        }
+    ],
+    "Andreas Hoover": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Maritza Ryan": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Zechariah Dominguez": [
+        {
+            "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+            "status": "expired"
+        }
+    ],
+    "Janiyah Vaughan": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Rene Gardner": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Derek Wells": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        }
+    ],
+    "Kaitlyn Orozco": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        },
+        {
+            "training": "Radiation Safety Annual Refresher",
+            "status": "expired"
+        }
+    ],
+    "Anastasia Mcknight": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Erin Swanson": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Ezra Powers": [
+        {
+            "training": "OHS Training",
+            "status": "expires soon"
+        }
+    ],
+    "Teagan Nielsen": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        }
+    ],
+    "Jazmine Alvarado": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expired"
+        }
+    ],
+    "Lance Mcfarland": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Randall Marsh": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Jadon Villarreal": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        },
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Dennis Dunn": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Alicia Mays": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Micah Barrera": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Marisol Cooper": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        }
+    ],
+    "Damari Short": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Crystal Middleton": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Freddy Bullock": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Finley Thornton": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Mark Griffith": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expired"
+        }
+    ],
+    "Wendy Bradshaw": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Eve Sullivan": [
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Jaden Wolfe": [
+        {
+            "training": "Animal Care And Use Risk Assessment",
+            "status": "expired"
+        },
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Kailey Montgomery": [
+        {
+            "training": "Laboratory Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ],
+    "Misael Sawyer": [
+        {
+            "training": "Health Screening Questionnaire",
+            "status": "expired"
+        },
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Jadyn Cuevas": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        }
+    ],
+    "Cailyn Morrow": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Lia Mosley": [
+        {
+            "training": "Understanding Biosafety",
+            "status": "expired"
+        }
+    ],
+    "Adrienne Yates": [
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Nayeli Mcfarland": [
+        {
+            "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+            "status": "expires soon"
+        }
+    ],
+    "Clarence Moran": [
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        },
+        {
+            "training": "Chemical Waste Requirements",
+            "status": "expired"
+        }
+    ],
+    "Audrina Valencia": [
+        {
+            "training": "X-Ray Safety",
+            "status": "expired"
+        }
+    ],
+    "Kamron Tanner": [
+        {
+            "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+            "status": "expired"
+        },
+        {
+            "training": "NIH Guidelines Overview",
+            "status": "expired"
+        }
+    ],
+    "Arnav Meza": [
+        {
+            "training": "Electrical Safety for Labs",
+            "status": "expires soon"
+        }
+    ],
+    "Anahi Golden": [
+        {
+            "training": "Using Hazardous Chemicals in an Animal Care Facility",
+            "status": "expired"
+        }
+    ],
+    "Julien Terrell": [
+        {
+            "training": "IRB Quiz",
+            "status": "expired"
+        },
+        {
+            "training": "Transportation of Infectious Substances, Category B",
+            "status": "expired"
+        }
+    ],
+    "Ricardo Barber": [
+        {
+            "training": "Retraining in working with the IACUC",
+            "status": "expires soon"
+        }
+    ],
+    "John Montes": [
+        {
+            "training": "Basic Training Program for Animal Users",
+            "status": "expired"
+        },
+        {
+            "training": "Radioactive Materials Safety Training",
+            "status": "expired"
+        }
+    ],
+    "Camden Ho": [
+        {
+            "training": "Working in Cold Temperatures",
+            "status": "expired"
+        }
+    ],
+    "Jadon Harrell": [
+        {
+            "training": "OHS Training",
+            "status": "expired"
+        }
+    ]
+}
