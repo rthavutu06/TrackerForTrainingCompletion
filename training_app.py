@@ -31,7 +31,9 @@ for person in data:
     for completion in completions:
         training_name = completion['name']
         timestamp = datetime.strptime(completion['timestamp'], '%m/%d/%Y')
-        if fiscal_year_start <= timestamp <= fiscal_year_end:
+        
+        # Add condition to check if the training is in target_trainings
+        if training_name in target_trainings and fiscal_year_start <= timestamp <= fiscal_year_end:
             if training_name not in recent_completions or timestamp > recent_completions[training_name]['timestamp']:
                 recent_completions[training_name] = {'name': person['name'], 'timestamp': timestamp}
     
@@ -42,6 +44,7 @@ for person in data:
 
 print("\n--- Task 2 Output ---")
 print(json.dumps(completed_trainings_in_fy, indent=4))
+
 
 # Task 3: Find expired or soon-to-expire trainings
 check_date = datetime(2023, 10, 1)
