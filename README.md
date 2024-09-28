@@ -19,7 +19,7 @@ The **Training Completion Tracker** is a Python console application designed to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TrainingCompletionTracker.git
+   git clone https://github.com/rthavutu06/TrackerForTrainingCompletion.git
    ```
 2. Navigate to the project directory:
    ```bash
